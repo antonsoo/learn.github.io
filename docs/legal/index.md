@@ -1,6 +1,6 @@
 # AncientLanguages — Legal
 
-- **Terms of Service (Donations):** [/legal/terms](/legal/terms)
-- **Privacy Policy (Donations):** [/legal/privacy](/legal/privacy)
+- **Supporter Terms (Donations & Memberships):** [/legal/terms](/legal/terms)
+- **Privacy Policy (Donations & Memberships):** [/legal/privacy](/legal/privacy)
 
 _Last updated: 2025-10-13_
